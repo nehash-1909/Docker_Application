@@ -1,9 +1,8 @@
-# greetingApp_FLASK
-a simple greeting app built with flask, ready to deploy to Heroku
+# Docker Application
+Flask Application containerise in docker
 
-![ss](https://user-images.githubusercontent.com/32107652/134775021-659d1384-0c37-43a7-b373-593d87f2b475.png)
+![ss](https://github.com/nehash-1909/Docker_Application/blob/a220fe40497cb9096bfcbfb29375bf9ecaca699a/static/images/docker_logo.jpg)
 <br>
 <br>
-Author: Mariya Sha
+Author: Neha Sharma
 <br>
-Watch on YouTube: https://youtu.be/6plVs_ytIH8
